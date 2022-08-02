@@ -1,0 +1,9 @@
+# Data & Res files
+/data/*
+/res/*
+
+# Mac files
+**/.DS_Store
+
+# R files
+**/.Rhistory
